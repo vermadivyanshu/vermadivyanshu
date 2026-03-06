@@ -1,82 +1,90 @@
-<h1 align="center">Hi 👋, I'm Divyanshu Verma</h1>
-<h3 align="center">Senior Software Engineer · Ottawa, Canada 🍁</h3>
+<!-- Header -->
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/divyanshu93" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-divyanshu93-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=vermadivyanshu&label=Profile%20views&color=0e75b6&style=flat" alt="vermadivyanshu" />
-</p>
+```
+╔══════════════════════════════════════════════════════════╗
+║         DIVYANSHU VERMA  ·  SOFTWARE ENGINEER            ║
+║              10+ years · Ottawa, Canada 🍁               ║
+╚══════════════════════════════════════════════════════════╝
+```
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/divyanshu93)
+[![Email](https://img.shields.io/badge/Open_to_Work-Let's_Talk-2ea44f?style=for-the-badge)](https://linkedin.com/in/divyanshu93)
 
-### 🧑‍💻 About Me
-
-Full-stack software engineer with **10+ years of experience** building scalable, high-performance systems across fintech, HR-tech, hospitality, and gig economy platforms. I thrive at the intersection of backend architecture and clean frontend experiences — from consolidating legacy microservices to shipping features used by hundreds of thousands of users.
-
-- 🏢 Currently: **Software Engineer @ Benbria Corporation**, Ottawa
-- 🌐 Previously: Instawork, Cvent, Tapmint, PayU
-- 💬 Ask me about: **Node.js, NestJS, React, Django, ElasticSearch, microservices**
-- 📫 Reach me: [linkedin.com/in/divyanshu93](https://linkedin.com/in/divyanshu93)
+</div>
 
 ---
 
-### 🚀 Experience Highlights
+## 👋 Who Am I?
 
-| Company | Role | Impact |
+I'm a full-stack engineer who has spent **10+ years** turning messy legacy systems into clean, scalable architectures — and shipping features that move real metrics.
+
+I've worked across **fintech, gig economy, hospitality tech, and HR-tech**, touching everything from ElasticSearch clusters serving 100K merchants, to mobile apps with millions of users, to microservice consolidations that cut infrastructure complexity in half.
+
+> *I don't just write code — I obsess over the problem behind the code.*
+
+---
+
+## 💥 Career Highlights — by the Numbers
+
+| # | What I Did | Impact |
 |---|---|---|
-| **Benbria** | Software Engineer | Consolidated 15 microservices → 8; built live translation pipeline with BullMQ + Redis |
-| **Instawork** | SWE Intern | 350K resume uploads; 30% DAU increase via ElasticSearch ranking improvements |
-| **Cvent** | Lead Software Engineer | Led team of 5; built push notifications & mobile-to-web auth with React Native + GraphQL |
-| **Tapmint** | Senior SWE | Built CI/CD pipeline (CircleCI + Fastlane), saving 100+ man-hours per release |
-| **PayU** | Software Engineer | Configured ElasticSearch for 100K merchants; built ORBIT reporting UI in EmberJS |
+| 📦 | Consolidated **15 microservices → 8** at Benbria | Slashed infrastructure overhead & system complexity |
+| 📄 | Led resume upload overhaul at Instawork | **350,000** daily resume uploads |
+| 📈 | Re-tuned ElasticSearch ranking at Instawork | **+30%** daily active users |
+| 💬 | Built group chat (Django + Hyperview) | **+1,000** daily message interactions |
+| 🔔 | Designed push notifications (React Native + GraphQL) | **+10%** user engagement |
+| 🔐 | Built mobile-to-web SSO auth at Cvent | **+10%** user retention |
+| 🧪 | Raised test coverage across projects | **+20%** · zero high-priority production issues |
+| 🚀 | Built CI/CD pipeline (CircleCI + Fastlane) | Saved **100+ man-hours** per release |
+| 🔍 | Configured ElasticSearch for PayU | **100K merchants** · page loads under **2 seconds** |
+| 🤖 | Built Taco data connector at Benbria | Replaced manual export → saved **20+ days/year** |
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ What I Work With
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+**I'm strongest in:**
 
-**Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+```
+Backend        →  Node.js · NestJS · Express · Django · Python · Java
+Frontend       →  React · Angular · React Native · TypeScript · Vue.js
+Data / Search  →  ElasticSearch · MongoDB · MySQL · Redis · BullMQ
+Cloud / Infra  →  AWS Lambda · CircleCI · Fastlane · Docker
+Testing        →  Mocha · Chai · Sinon · JUnit · Mockito · WDio
+```
 
-**Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-
-**Databases & Infra**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-**Testing**
-![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=flat&logo=mocha&logoColor=white)
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/-Mockito-25A162?style=flat)
+**Also worked with:** GraphQL · PubNub · Meteor.js · EmberJS · Ruby on Rails · Hyperview
 
 ---
 
-### 📊 GitHub Stats
+## 🏢 Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vermadivyanshu&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermadivyanshu&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+**Software Engineer** · Benbria Corporation · Ottawa *(May 2024 – Jan 2025)*
+> Built live + bulk translation for conversations, surveys & tickets. Consolidated 15 legacy microservices into 8 using NestJS. Created a Taco data connector that eliminated 20+ days of manual work annually.
+
+**Software Engineer Intern** · Instawork Canada · Vancouver *(May 2023 – Dec 2023)*
+> Drove resume uploads to 350K/day. Improved ElasticSearch ranking for +30% DAU. Built group chat and migrated messaging backend to Python, saving 120+ dev + QA hours.
+
+**Lead Software Engineer** · Cvent · Gurugram *(Jan 2020 – Sep 2022)*
+> Led a team of 5. Shipped push notifications, mobile-to-web SSO, and a rule-based session enrollment framework in JS — each contributing measurable engagement and retention gains.
+
+**Senior Software Engineer** · Tapmint Innovations · Gurugram *(Dec 2017 – Dec 2019)*
+> Single-handedly built the CI/CD pipeline for iOS + Android releases. Implemented push notifications on Meteor.js + VueJS — the client's most-requested feature.
+
+**Software Engineer** · PayU Payments · Gurugram *(Jun 2015 – Dec 2017)*
+> Configured ElasticSearch for 100K merchants. Built reporting UI with pivot tables and dashboards on EmberJS (ORBIT platform).
 
 ---
 
-<p align="center">
-  <i>"Build systems that scale, write code that lasts."</i>
-</p>
+## 🤝 Let's Connect
+
+I'm open to **senior/lead full-stack roles** — especially where there are hard technical problems, good people, and a chance to make a real dent.
+
+📬 [linkedin.com/in/divyanshu93](https://linkedin.com/in/divyanshu93)
+
+---
+
+<div align="center">
+  <sub>📍 Ottawa, Canada · Available for remote & hybrid roles</sub>
+</div>
